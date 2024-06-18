@@ -1,0 +1,13 @@
+{
+  "remappings": [
+    "ds-test/=lib/ds-test/src/",
+    "forge-std/=lib/forge-std/src/",
+    "solidstate/=lib/solidstate-solidity/contracts/",
+    "solidstate-solidity/=lib/solidstate-solidity/contracts/",
+    "solmate/=lib/solmate/src/"
+  ],
+  "optimizer": {
+    "enabled": true,
+    "runs": 200
+  }
+}
